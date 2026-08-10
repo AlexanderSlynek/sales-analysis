@@ -1,16 +1,16 @@
-Date;Product;Category;Quantity;Price
-02.07.2026;Computer;Electronics;3;900 $
-01.07.2026;Playstation 5;Electronics;1;600 $
-05.07.2026;TV;Electronics;1;1500 $
-04.07.2026;Chair;Furniture;4;400 $
-03.07.2026;Table;Furniture;2;600 $
-01.07.2026;Lamp;Furniture;6;150 $
-12.07.2026;Pen;Stationery;20;2 $
-17.07.2026;Pencil;Stationery;15;1.5 $
-20.07.2026;Tennis ball;Sport items;25;2 $
-23.07.2026;Basketball ball;Sport items;5;30 $
-21.07.2026;Football Boots;Sport items;2;100 $
-28.07.2026;T-shirt;Clothes;40;15 $
-25.06.2026;Pencil Case;Stationery;4;10 $
-29.06.2026;Jacket;Clothes;15;40 $
-29.07.2026;Skirt;Clothes;7;70 $
+Date,Product,Category,Quantity,Price
+02.07.2026,Computer,Electronics,3,900 $
+01.07.2026,Playstation 5,Electronics,1,600 $
+05.07.2026,TV,Electronics,1,1500 $
+04.07.2026,Chair,Furniture,4,400 $
+03.07.2026,Table,Furniture,2,600 $
+01.07.2026,Lamp,Furniture,6,150 $
+12.07.2026,Pen,Stationery,20,2 $
+17.07.2026,Pencil,Stationery,15,1.5 $
+20.07.2026,Tennis ball,Sport items,25,2 $
+23.07.2026,Basketball ball,Sport items,5,30 $
+21.07.2026,Football Boots,Sport items,2,100 $
+28.07.2026,T-shirt,Clothes,40,15 $
+25.06.2026,Pencil Case,Stationery,4,10 $
+29.06.2026,Jacket,Clothes,15,40 $
+29.07.2026,Skirt,Clothes,7,70 $
