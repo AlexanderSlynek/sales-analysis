@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-df = pd.read_csv("data/sales.csv", sep = ";")
+df = pd.read_csv("data/sales.csv")
 df["Date"] = pd.to_datetime(df["Date"], format = "%d.%m.%Y")
 df["Quantity"] = pd.to_numeric(df["Quantity"])
 df["Price"] = df["Price"].str.replace("$", "", regex = False).str.strip()
